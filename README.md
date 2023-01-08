@@ -1,2 +1,2 @@
-# Softy-Pinok
-Softy Pinok
+# Softy-Pinko
+Softy Pinko
